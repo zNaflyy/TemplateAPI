@@ -24,3 +24,4 @@ var getData = async function(username) {
 
 //Replace this with the username you want!
 getData('[username]');
+
