@@ -19,7 +19,7 @@ Output:
   isVerified: true,
   timeCreated: '2020-09-09T12:47:49.218Z',
   isLoggedIn: false,
-  organization: { name: 'Furret Developer' },
+  organization: { name: 'RocketBotList' },
   subscription: { planId: 'hacker2' },
   roles: [ { name: 'self learner' }, { name: 'explorer' } ]
 }
