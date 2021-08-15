@@ -19,7 +19,7 @@ Output:
   isVerified: true,
   timeCreated: '2020-09-09T12:47:49.218Z',
   isLoggedIn: false,
-  organization: { name: 'RocketBotList' },
+  organization: { name: 'Insion' },
   subscription: { planId: 'hacker2' },
   roles: [ { name: 'self learner' }, { name: 'explorer' } ]
 }
